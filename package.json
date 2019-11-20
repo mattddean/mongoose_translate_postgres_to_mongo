@@ -1,0 +1,15 @@
+{
+  "name": "11_8_19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.10",
+    "pg": "^7.12.1"
+  }
+}
